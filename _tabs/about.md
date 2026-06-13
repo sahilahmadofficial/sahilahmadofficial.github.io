@@ -1,3 +1,8 @@
+---
+icon: fas fa-user
+order: 4
+---
+
 ## Hi, I'm Sahil Ahmad 👋
 
 I'm an MCA student specialising in **Identity Security** and **Cybersecurity**,
@@ -80,12 +85,10 @@ Linux · Python · Bash · SQL · REST APIs · Git · Docker
 
 ## Timeline
 
-```
-2024 — Started cybersecurity journey
-2024 — SailPoint ISC internship begins
-2024 — Building this blog
-       More to come...
-```
+- **2024** — Started cybersecurity journey
+- **2024** — SailPoint ISC internship begins
+- **2024** — Built this blog
+- **More to come...**
 
 ---
 
