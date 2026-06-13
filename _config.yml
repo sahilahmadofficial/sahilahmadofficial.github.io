@@ -71,7 +71,7 @@ theme_mode: dark
 cdn:
 
 # Avatar
-avatar: "/assets/img/avatar.png"
+avatar: "/assets/img/avatar.jpg"
 
 # Social preview image
 social_preview_image:
