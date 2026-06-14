@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sahilahmad-personal.github.io/sitemap.xml
