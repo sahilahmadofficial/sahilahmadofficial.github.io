@@ -1,10 +1,9 @@
 <footer aria-label="Site Footer">
   <div class="footer-wrap">
     <span>&copy; {{ 'now' | date: "%Y" }} {{ site.social.name }}</span>
-    <span>Built with Jekyll &amp; hosted on GitHub Pages</span>
+    <span>Built with <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a> &amp; hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a></span>
   </div>
 </footer>
-
 <style>
   footer {
     border-top: 1px solid var(--border-color);
@@ -12,7 +11,6 @@
     font-size: 0.82rem;
     color: var(--text-muted-color);
   }
-
   .footer-wrap {
     display: flex;
     justify-content: space-between;
@@ -20,7 +18,13 @@
     flex-wrap: wrap;
     gap: 0.5rem;
   }
-
+  .footer-wrap a {
+    color: var(--text-muted-color);
+    text-decoration: none;
+  }
+  .footer-wrap a:hover {
+    text-decoration: underline;
+  }
   @media (max-width: 768px) {
     .footer-wrap {
       flex-direction: column;
