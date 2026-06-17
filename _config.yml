@@ -12,12 +12,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings
 title: "Sahil Ahmad"
 
-tagline: "Cybersecurity · Identity Security · SailPoint ISC"
+tagline: "Cybersecurity · Identity Security · Linux · Python"
 
 description: >-
-  A cybersecurity student documenting my journey through
-  Identity Security, SailPoint ISC, penetration testing,
-  and everything in between. Honest. Technical. No fluff.
+  A cybersecurity student documenting the journey into Identity Security,
+  IAM, Linux, and networking — from fundamentals to hands-on practice.
+  Honest, technical, and without the fluff.
 
 url: "https://sahilahmad.is-a.dev"
 
@@ -25,15 +25,14 @@ github:
   username: sahilahmadofficial
 
 twitter:
-  username: sahilahmadofficial
+  username: 
 
 social:
   name: Sahil Ahmad
-  email: sahil.ahmad.dev@gmail.com
+  email: hello.sahilahmad@gmail.com
   links:
     - https://sahilahmad.is-a.dev/about/
     - https://github.com/sahilahmadofficial
-    - https://twitter.com/sahilahmadofficial
     - https://linkedin.com/in/sahilahmadofficial
     - mailto:hello.sahilahmad@gmail.com
 
