@@ -5,31 +5,27 @@ order: 4
 
 ## Hi, I'm Sahil Ahmad 👋
 
-I'm an MCA student specialising in **Identity Security** and **Cybersecurity**,
-currently interning as a **SailPoint ISC Implementation Engineer** at a security
-consultancy working with enterprise-level clients.
+I'm a final-year MCA student building a focused career in cybersecurity. My foundation is in Linux, Python, Computer Networks, and IT infrastructure. Currently going deep into Identity Security with hands-on experience in SailPoint ISC.
 
-This blog is where I document everything I learn — honestly, technically,
-and without the fluff.
+This blog is where I document everything I learn — honestly, technically, and without the fluff.
 
 ---
 
 ## Currently Working On
 
-- **SailPoint Identity Security Cloud (ISC)** — implementing IAM/IGA for enterprise clients
+- **SailPoint Identity Security Cloud (ISC)** — hands-on with IAM and Identity Governance
 - **Web Application Security** — PortSwigger Web Security Academy
-- **Penetration Testing** — HackTheBox machines
-- **Building security tools** in Python and Bash
+- **Network Security** — building and reinforcing fundamentals
+- **Security tools** — Python and Bash scripting
 
 ---
 
 ## Background
 
-- 5+ years daily Linux usage
-- Python and Bash scripting
-- Networking, OS, and CS fundamentals (BCA + MCA)
-- End-to-end software deployment experience
-- AI-assisted development experience
+- Strong foundation in Linux, Python, Computer Networks, and IT infrastructure
+- BCA + MCA from Integral University, Lucknow
+- End-to-end software development and deployment experience
+- Understanding of how systems are built — which makes securing them sharper
 
 ---
 
@@ -37,32 +33,41 @@ and without the fluff.
 
 | Category | What |
 |---|---|
-| **SailPoint / IAM** | Identity governance from a practitioner's perspective |
-| **HTB Writeups** | Detailed walkthroughs of retired machines |
+| **Identity Security / IAM** | SailPoint ISC, IAM concepts from a practitioner's perspective |
 | **Web Security** | Deep dives into attack and defence techniques |
-| **Tool Tutorials** | How to use security tools effectively |
-| **Learning Journey** | Honest documentation of my path |
+| **Linux & Networking** | Fundamentals, tools, and real usage |
+| **Security Tools** | Python and Bash tools for security tasks |
+| **Learning Journey** | Honest documentation of my path into cybersecurity |
 
 ---
 
 ## Skills
 
 **Identity Security:**
-SailPoint ISC · IAM · IGA · RBAC · Access Certification · OAuth 2.0
+SailPoint ISC · IAM · Identity Governance · RBAC · Access Certification · OAuth 2.0
 
 **Cybersecurity:**
 Web Application Security · Network Security · Burp Suite · Wireshark · Nmap
 
 **Technical:**
-Linux · Python · Bash · SQL · REST APIs · Git · Docker
+Linux · Python · Bash · Shell Scripting · Computer Networking · TCP/IP · Git
+
+---
+
+## Focus Areas
+
+Going forward, I'm building depth in:
+
+- 🔐 Identity & Access Management (IAM)
+- ☁️ Cloud Security
+- 🤖 AI Security
 
 ---
 
 ## Projects
 
 - **Security Toolkit** — Python security tools (port scanner, log analyser, API tools)
-- **HTB Writeups** — Documented walkthroughs of HackTheBox machines
-- **SailPoint API Tools** — Python automation tools for SailPoint ISC
+- **SailPoint API Tools** — Python automation for SailPoint ISC
 
 *(Links coming soon as projects are published)*
 
@@ -70,10 +75,9 @@ Linux · Python · Bash · SQL · REST APIs · Git · Docker
 
 ## Connect With Me
 
-- 🐙 **GitHub:** [github.com/sahilahmad-personal](https://github.com/sahilahmad-personal)
-- 💼 **LinkedIn:** [linkedin.com/in/sahil-ahmad-dev](https://www.linkedin.com/in/sahil-ahmad-dev)
-- 🐦 **Twitter:** [@sahilahmad_dev](https://twitter.com/sahilahmad_dev) *(coming soon)*
-- 📧 **Email:** [sahil.ahmad.dev@gmail.com](mailto:sahil.ahmad.dev@gmail.com)
+- 🐙 **GitHub:** [github.com/sahilahmadofficial](https://github.com/sahilahmadofficial)
+- 💼 **LinkedIn:** [linkedin.com/in/sahilahmadofficial](https://linkedin.com/in/sahilahmadofficial)
+- 📧 **Email:** [hello.sahilahmad@gmail.com](mailto:hello.sahilahmad@gmail.com)
 
 ---
 
@@ -85,10 +89,11 @@ Linux · Python · Bash · SQL · REST APIs · Git · Docker
 
 ## Timeline
 
-- **2024** — Completed BCA
-- **2026** — Pursuing MCA
-- **2026** — SailPoint ISC internship begins
-- **2026** — Started this blog
+- **2022** — Started BCA at Integral University
+- **2025** — Completed BCA
+- **2025** — Started MCA at Integral University
+- **2025** — Started this blog
+- **2026** — Going deep into Identity Security with SailPoint ISC
 - **More to come...**
 
 ---
