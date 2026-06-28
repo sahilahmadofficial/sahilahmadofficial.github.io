@@ -1,6 +1,6 @@
 ---
 title: "I Built a Homelab With Zero Budget — And You Can Too"
-date: 2026-06-27 15:00:00 +0530
+date: 2026-06-28 10:00:00 +0530
 categories: [Cybersecurity, Homelab]
 tags: [homelab, linux, kali, ubuntu, windows, virtualization, cybersecurity, learning]
 description: "How I built a fully functional cybersecurity homelab on zero budget using an old laptop running Xubuntu and a decade-old Core2Duo server. No cloud costs. No fancy hardware. Just learning."
