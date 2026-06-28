@@ -5,7 +5,7 @@ categories: [Cybersecurity, Homelab]
 tags: [homelab, linux, kali, ubuntu, windows, virtualization, cybersecurity, learning]
 description: "How I built a fully functional cybersecurity homelab on zero budget using an old laptop running Xubuntu and a decade-old Core2Duo server. No cloud costs. No fancy hardware. Just learning."
 image:
-  path: /assets/img/posts/zero-budget-homelab/cover.png
+  path: /assets/img/posts/zero-budget-homelab/cover.jpg
   alt: "A split-screen showing a laptop running Xubuntu with VMs on the left, and an old server with blinking network lights on the right"
 pin: false
 ---
