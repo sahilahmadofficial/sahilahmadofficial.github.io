@@ -5,7 +5,7 @@ categories: [Journey, Learning]
 tags: [blogging, cybersecurity, linux, networking, first-post]
 description: "The first post on my cybersecurity blog — why I started, what tech I used, and why it feels like the right direction."
 image:
-  path: /assets/img/posts/why-this-blog-exists/cover.png
+  path: /assets/img/posts/why-this-blog-exists/cover.jpg
   alt: "A dark themed code editor with a blinking cursor, ready to start a new journey"
 pin: false
 ---
