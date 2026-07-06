@@ -1,3 +1,5 @@
+# <--- Older default version (Used to work fine) --->
+
 # name: "Build and Deploy"
 # on:
 #   push:
@@ -71,6 +73,9 @@
 #       - name: Deploy to GitHub Pages
 #         id: deployment
 #         uses: actions/deploy-pages@v4
+
+# <--- New updated version --->
+
 name: "Build and Deploy"
 on:
   push:
