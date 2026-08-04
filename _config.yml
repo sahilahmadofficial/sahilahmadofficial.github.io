@@ -12,12 +12,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings
 title: "Sahil Ahmad"
 
-tagline: "Cybersecurity · Identity Security · Linux · Python"
+tagline: "Documenting What I'm Actually Learning."
 
 description: >-
-  A cybersecurity student documenting the journey into Identity Security,
-  IAM, Linux, and networking — from fundamentals to hands-on practice.
-  Honest, technical, and without the fluff.
+  A blog documenting real, hands-on learning in Identity & Access Management,
+  security, Linux, Python, and automation. No recycled content, no AI filler,
+  just what I'm actually working through.
 
 url: "https://sahilahmad.is-a.dev"
 
