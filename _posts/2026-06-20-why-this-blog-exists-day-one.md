@@ -1,9 +1,9 @@
 ---
-title: "Why This Blog Exists — Day One"
+title: "Why This Blog Exists, Day One"
 date: 2026-06-20 10:00:00 +0530
 categories: [Journey, Learning]
-tags: [blogging, cybersecurity, linux, networking, first-post]
-description: "The first post on my cybersecurity blog — why I started, what tech I used, and why it feels like the right direction."
+tags: [blogging, identity, iam, linux, networking, first-post]
+description: "The first post on this blog, why I started, what tech I used, and why identity and access management felt like the right direction."
 image:
   path: /assets/img/posts/why-this-blog-exists/cover.jpg
   alt: "A dark themed code editor with a blinking cursor, ready to start a new journey"
@@ -26,11 +26,11 @@ That question wouldn't leave me alone.
 
 ## The Realization
 
-The more I understood how systems work — how data moves, how identities are managed, how networks communicate — the more one thing became painfully clear:
+The more I understood how systems work, how data moves, how identities are managed, how networks communicate, the more one thing became painfully clear:
 
 **The gaps are everywhere. And most people building systems aren't thinking about them.**
 
-Not because they're careless. Because they're focused on shipping features, meeting deadlines, making things work. Security is an afterthought — until it's not.
+Not because they're careless. Because they're focused on shipping features, meeting deadlines, making things work. Security is an afterthought until it's not, and access is usually the part nobody's watching.
 
 I didn't want to be part of that problem anymore.
 
@@ -40,7 +40,7 @@ I didn't want to be part of that problem anymore.
 
 This blog isn't a content strategy. It's not a personal brand play. It's not a "5 things you didn't know about Linux" listicle machine.
 
-It's me, documenting what I'm actually learning — in the way I actually think.
+It's me, documenting what I'm actually learning, in the way I actually think.
 
 **Honestly. Technically. Without the fluff.**
 
@@ -56,10 +56,10 @@ I want to look back at this post after 10, 20, 30 years and say:
 
 I built this blog using:
 
-- **Jekyll** — static site generator, simple and fast
-- **Chirpy Theme** — clean, dark, minimal, perfect for technical writing
-- **GitHub Pages** — free hosting, version controlled, zero maintenance
-- **Markdown** — because I write better when I'm not fighting a WYSIWYG editor
+- **Jekyll**, static site generator, simple and fast
+- **Chirpy Theme**, clean, dark, minimal, perfect for technical writing
+- **GitHub Pages**, free hosting, version controlled, zero maintenance
+- **Markdown**, because I write better when I'm not fighting a WYSIWYG editor
 
 Why this stack?
 
@@ -71,9 +71,9 @@ Just me, a text editor, and the things I'm learning.
 
 ## Why This Feels Right
 
-I've been a developer for years. It taught me a lot — how systems are built, how they fail, how they scale.
+I've been a developer for years. It taught me a lot, how systems are built, how they fail, how they scale.
 
-But cybersecurity? That's where my head is now. Identity Security. IAM. Linux. Networking. The stuff that actually keeps systems from burning down.
+But identity and access management? That's where my head is now. Who has access, why they have it, and whether it still makes sense. SailPoint, Linux, networking, all the infrastructure underneath it, the stuff that actually decides whether a system holds up or falls apart.
 
 **It feels like I found what I was looking for.**
 
@@ -87,11 +87,11 @@ That's the kind of work I want to spend my career on.
 
 I'll be writing about:
 
-- **Identity Security & SailPoint ISC** — hands-on, real implementation
-- **Linux & Networking** — deep, not surface level
-- **Core cybersecurity concepts** — explained like you have a brain
-- **Tools** — how they actually work, not just how to install them
-- **My raw learning journey** — wins, failures, and everything in between
+- **Identity Security & SailPoint ISC**, hands-on, real implementation
+- **Linux & Networking**, deep, not surface level
+- **Core identity and security concepts**, explained like you have a brain
+- **Tools**, how they actually work, not just how to install them
+- **My raw learning journey**, wins, failures, and everything in between
 
 Some posts will be long and technical. Some will be short and direct. All of it will be real.
 
@@ -101,9 +101,9 @@ Some posts will be long and technical. Some will be short and direct. All of it 
 
 I'm not an expert. I'm not pretending to be one.
 
-I'm someone who decided to go all in on cybersecurity — and document the entire thing honestly.
+I'm someone who decided to go deep on identity and access management, and document the entire thing honestly.
 
-If that sounds like something worth following — stick around.
+If that sounds like something worth following, stick around.
 
 The first real posts are coming soon.
 
@@ -113,6 +113,6 @@ The first real posts are coming soon.
 
 ---
 
-*— Sahil*
+— *Sahil*
 
 *Day One. June 2026.*
