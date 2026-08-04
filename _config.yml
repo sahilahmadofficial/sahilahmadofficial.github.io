@@ -54,7 +54,7 @@ analytics:
   google:
     id:
   goatcounter:
-    id:
+    id: sahilahmad
   umami:
     id:
     domain:
@@ -68,7 +68,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider:
+  provider: goatcounter
 
 # Theme mode
 theme_mode: # [light | dark]
