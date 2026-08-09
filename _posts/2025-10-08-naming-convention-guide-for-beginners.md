@@ -5,7 +5,7 @@ categories: [Programming, Best Practices]
 tags: [naming-conventions, javascript, cpp, python, github, beginners]
 description: "A practical, no-nonsense guide to naming conventions across JavaScript, C++, Python, and GitHub — with real examples and common mistakes to avoid."
 image:
-  path: /assets/img/posts/naming-convention-guide-for-beginners/cover.png
+  path: /assets/img/posts/naming-convention-guide-for-beginners/cover.jpg
   alt: "Code editor showing variable names before and after applying naming conventions"
 pin: false
 ---
