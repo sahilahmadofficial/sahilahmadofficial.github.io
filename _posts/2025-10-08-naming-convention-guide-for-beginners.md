@@ -649,6 +649,10 @@ Let's write code that doesn't need comments to be understood.
 
 ---
 
-*Written by Sahil Ahmad | Identity & Access Management | SailPoint ISC | Linux • Python • Automation*
-
-[Connect on LinkedIn](https://linkedin.com/in/sahilahmadofficial) | [GitHub](https://github.com/sahilahmadofficial) | [Portfolio](https://sahilahmad.is-a.dev)
+<p style="text-align: center; font-size: 0.95rem;">
+  <em>Sahil Ahmad — Identity & Access Management | SailPoint ISC | Linux • Python • Automation</em>
+  <br>
+  <a href="https://linkedin.com/in/sahilahmadofficial">LinkedIn</a> •
+  <a href="https://github.com/sahilahmadofficial">GitHub</a> •
+  <a href="https://sahilahmad.is-a.dev">Portfolio</a>
+</p>
