@@ -649,6 +649,6 @@ Let's write code that doesn't need comments to be understood.
 
 ---
 
-*Written by Sahil Ahmad | Cybersecurity · Identity Security · SailPoint ISC | Building & Blogging*
+*Written by Sahil Ahmad | Identity & Access Management | SailPoint ISC | Linux • Python • Automation*
 
-[Connect on LinkedIn](https://linkedin.com/in/sahilahmad-dev) | [GitHub](https://github.com/sahilahmad-personal) | [Portfolio](https://sahilahmad-personal.github.io)
+[Connect on LinkedIn](https://linkedin.com/in/sahilahmadofficial) | [GitHub](https://github.com/sahilahmadofficial) | [Portfolio](https://sahilahmad.is-a.dev)
