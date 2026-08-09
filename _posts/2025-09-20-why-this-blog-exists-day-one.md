@@ -1,6 +1,6 @@
 ---
 title: "Why This Blog Exists, Day One"
-date: 2026-06-20 10:00:00 +0530
+date: 2025-09-20 10:00:00 +0530
 categories: [Journey, Learning]
 tags: [blogging, identity, iam, linux, networking, first-post]
 description: "The first post on this blog, why I started, what tech I used, and why identity and access management felt like the right direction."
