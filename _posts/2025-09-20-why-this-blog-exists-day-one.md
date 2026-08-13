@@ -115,4 +115,4 @@ The first real posts are coming soon.
 
 — *Sahil*
 
-*Day One. June 2026.*
+*Day One. September 2025.*
