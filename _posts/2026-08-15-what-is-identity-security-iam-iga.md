@@ -149,4 +149,4 @@ If you're also learning SailPoint or entering the IAM space, follow along.
 
 — Sahil Ahmad
 
-*Identity & Access Management | SailPoint ISC | Linux · Python · Automation*
+*Identity Security &middot; IAM &middot; IGA &middot; SailPoint ISC*
