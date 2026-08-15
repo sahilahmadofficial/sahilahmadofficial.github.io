@@ -1,9 +1,9 @@
 ---
-title: "What Is Identity Security, IAM, and IGA (And Why I'm Learning It)"
+title: "What Is Identity Security, IAM, and IGA (And Why It Matters)"
 date: 2026-08-15 10:00:00 +0530
 categories: [IAM, SailPoint]
-tags: [identity-governance, iam, iga, sailpoint, cybersecurity, learning]
-description: "What Identity Security, IAM, and IGA are, why they matter, and why I'm learning it."
+tags: [identity-governance, iam, iga, sailpoint, cybersecurity]
+description: "What Identity Security, IAM, and IGA are, why they matter, and why the IAM/IGA space is one of the most critical and undersupplied areas in cybersecurity."
 image:
   path: /assets/img/posts/what-is-identity-security-iam-iga/cover.jpg
   alt: "A complex network of interconnected identities and access flows"
@@ -19,12 +19,6 @@ The old model of securing the network boundary doesn't work anymore. Everything 
 In this world, the only thing that matters is who has access to what.
 
 That's where Identity Security comes in.
-
-Six months ago, I had no idea what any of this meant. I barely knew what IAM stood for. If someone had asked me about access certifications, I would have stared at them blankly.
-
-Now I spend my days in SailPoint Identity Security Cloud. I work with provisioning, access reviews, role-based access control, and separation of duties.
-
-But I remember what it felt like to not understand any of this. So here's what I've learned. No jargon. No fluff. Just the problem, the solution, and why I'm in this space.
 
 ---
 
@@ -46,13 +40,11 @@ Get it right and you have a provable, auditable, compliant identity programme. A
 
 ## What Is IAM and IGA?
 
-This confused me for a long time.
+This is a common point of confusion.
 
 **Identity and Access Management (IAM)** is the foundation. It handles authentication (who you are) and authorization (what you can do). It's the plumbing.
 
 **Identity Governance and Administration (IGA)** is the discipline built on top of it. It adds policies, compliance, audit trails, and lifecycle automation.
-
-Think of it this way.
 
 IAM says: "Yes, you can log in."
 
@@ -100,35 +92,29 @@ SailPoint is the market leader in enterprise Identity Governance and Administrat
 
 Two main products:
 
-**SailPoint Identity Security Cloud (ISC)** is cloud-based SaaS. API-first architecture. This is what I work with.
+**SailPoint Identity Security Cloud (ISC)** is cloud-based SaaS. API-first architecture. This is where the industry is headed.
 
 **SailPoint IdentityIQ (IIQ)** is on-premise. Highly customisable. Still widely deployed in large enterprises.
 
-I focus on ISC. It's modern, cloud-native, and where the industry is headed.
-
 ---
 
-## Why I'm Learning This
-
-Identity security is where automation, security, cloud, and business processes converge. That convergence is exactly what interests me.
-
-I've earned my SailPoint Identity Security Leader certification and completed Introduction to Identity Security Cloud.
+## The Growing Demand for IAM and IGA
 
 The IAM/IGA space is undersupplied with skilled professionals. Companies like Deloitte, Accenture, IBM Security, and TCS Digital Security actively hire SailPoint engineers. The demand is global and growing.
 
-More than that, it's genuinely interesting. It's complex. It matters. And I enjoy it.
+Organisations are increasingly recognizing that identity governance is not optional. It is a business necessity. Regulatory requirements, cyber insurance mandates, and the shift to cloud are all accelerating adoption.
+
+For anyone entering cybersecurity, IAM/IGA offers a clear, defensible career path with strong growth potential.
 
 ---
 
 ## What's Next
 
-This is just the beginning.
+This post serves as an introduction. Future posts will go deeper into technical implementation: transforms, rules, workflows, provisioning, certifications, and real-world integration challenges.
 
-I'll be writing more as I go deeper into identity security. Technical deep dives. Implementation patterns. Real-world challenges. Things I learn while working with SailPoint ISC.
+I maintain a public GitHub repository where I store everything I learn: transforms, rules, workflows, API examples, and configuration templates.
 
-I also maintain a public GitHub repository, `sailpoint-isc-lab`, where I store transforms, rules, workflows, API examples, and configuration templates. Everything I learn goes there.
-
-If you're also learning SailPoint or entering the IAM space, follow along.
+[https://github.com/sahilahmadofficial/sailpoint-isc-lab](https://github.com/sahilahmadofficial/sailpoint-isc-lab)
 
 ---
 
@@ -137,7 +123,6 @@ If you're also learning SailPoint or entering the IAM space, follow along.
 - **SailPoint University** — [university.sailpoint.com](https://university.sailpoint.com) — free official courses
 - **SailPoint Developer Portal** — [developer.sailpoint.com](https://developer.sailpoint.com) — API docs + free tenant
 - **SailPoint Compass Community** — [community.sailpoint.com](https://community.sailpoint.com)
-- **My GitHub** — [github.com/sahilahmadofficial/sailpoint-isc-lab](https://github.com/sahilahmadofficial/sailpoint-isc-lab)
 
 ---
 
