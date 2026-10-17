@@ -1,6 +1,6 @@
 ---
 title: "Stop Googling ISC vs Human Fabric. Read This Instead."
-date: 2026-10-17 10:00:00 +0530
+date: 2026-10-17 19:07:00 +0530
 categories: [IAM, SailPoint]
 tags: [sailpoint, isc, identityiq, human-fabric, agentic-fabric, atlas, identity-governance]
 description: "IdentityNow, ISC, Human Fabric, Agentic Fabric, Atlas. What each one actually is, how they relate, and why the naming is so confusing."
