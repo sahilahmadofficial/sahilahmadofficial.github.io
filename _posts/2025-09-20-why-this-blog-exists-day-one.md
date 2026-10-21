@@ -65,6 +65,8 @@ Why this stack?
 
 I wanted something that gets out of my way. No WordPress bloat. No Medium paywalls. No distraction.
 
+I actually looked at a few simple one-page website builders early on. But as I weighed the differences between a [one-page website vs a multi-page website](https://onepagey.com/blog/one-page-website-vs-multi-page-website), I realized I needed the structure of a static site generator to organize my posts and code snippets properly.
+
 Just me, a text editor, and the things I'm learning.
 
 ---
